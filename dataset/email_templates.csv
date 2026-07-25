@@ -1,0 +1,331 @@
+scenario,client_type,tone,context,sample_email
+Angry client - project delayed,High-value enterprise client,"Calm, apologetic, confident, non-defensive","Client is furious about a missed deadline and is threatening to escalate. Goal: de-escalate, own the delay without over-explaining, give a firm new timeline, buy time without sounding evasive.","Subject: Update on [Project Name] Timeline
+
+Dear [Client Name],
+
+I want to acknowledge upfront that we did not meet the timeline we committed to, and I understand the impact this has on your plans. That is on us, and I am not going to make excuses for it.
+
+Here is exactly where things stand and what we are doing about it: [brief status]. We have revised our internal process to prevent this from happening again, and we are committing to [new specific date] as the delivery date.
+
+I would welcome a short call this week if it would help to walk through the details together.
+
+Thank you for your patience, and again, I am sorry for the disruption.
+
+Best regards,
+[Your Name]"
+Client requesting discount,Price-sensitive small business client,"Polite, firm, value-focused",Client is asking for a discount outside the agreed scope. Goal: decline gracefully while keeping the relationship warm and reinforcing value delivered.,"Subject: Re: Pricing on [Service/Product]
+
+Hi [Client Name],
+
+Thank you for raising this, and I appreciate you being upfront about it. I have reviewed the numbers on our end, and unfortunately we are not able to reduce the price on this package, as it is already priced to reflect [value point].
+
+What I can offer is [alternative, e.g. flexible payment terms / added service]. Let me know if that works for you, and I am happy to hop on a call to discuss further.
+
+Best regards,
+[Your Name]"
+Missed meeting follow-up,Regular ongoing client,"Friendly, understanding, proactive","Client missed a scheduled call and hasn't responded. Goal: follow up without sounding annoyed, offer easy rescheduling.","Subject: Missed our call today - let's find a new time
+
+Hi [Client Name],
+
+No worries at all if something came up - I know schedules get busy. I wanted to check in and see if we could find another time this week to connect.
+
+Here are a couple of slots that work on my end: [option 1] or [option 2]. Happy to work around your calendar too.
+
+Looking forward to catching up.
+
+Best,
+[Your Name]"
+Escalation to manager,Client escalating a complaint,"Professional, reassuring, ownership-focused","Client has asked to speak to a manager after repeated issues. Goal: acknowledge frustration, take ownership, introduce the escalation path clearly, restore confidence.","Subject: Your concern has been escalated
+
+Dear [Client Name],
+
+Thank you for your patience through this, and I am sorry you have had to raise the same issue more than once. I have escalated this directly to [Manager Name], who will be personally overseeing the resolution from here.
+
+You can expect an update from us within [timeframe]. In the meantime, please do not hesitate to reach out if anything changes on your end.
+
+We take this seriously and appreciate you giving us the chance to make it right.
+
+Best regards,
+[Your Name]"
+Invoice payment reminder,Client with overdue invoice,Polite but direct,"Client has an overdue invoice. Goal: remind without sounding aggressive, keep it professional, clear next step.","Subject: Friendly reminder - Invoice #[Number] overdue
+
+Hi [Client Name],
+
+Just a quick reminder that invoice #[Number] for [amount], due on [date], is still outstanding. If it has already been paid, please disregard this note.
+
+Could you confirm the expected payment date at your earliest convenience? Let me know if there is anything blocking this on your end so we can help resolve it.
+
+Thank you,
+[Your Name]"
+Thank you after project completion,Long-term client,"Warm, appreciative, relationship-building","Project just wrapped up successfully. Goal: thank the client, reinforce the relationship, open door for future work.","Subject: Thank you for the opportunity
+
+Dear [Client Name],
+
+Now that [Project Name] is wrapped up, I wanted to personally thank you for the trust you placed in our team. It has been a pleasure working with you and your team throughout this project.
+
+Please do not hesitate to reach out if you need any support going forward, and we would love the opportunity to work together again.
+
+Warm regards,
+[Your Name]"
+Declining out-of-scope request,New client,"Polite, boundary-setting, solution-oriented","Client is asking for extra work not covered in the contract. Goal: decline politely, protect scope, offer a paid path forward.","Subject: Re: Additional Request
+
+Hi [Client Name],
+
+Thanks for sending this over. This particular request falls outside the current scope of our agreement, so I wanted to flag that before we proceed.
+
+We would be glad to take this on as an add-on - I can put together a quick quote if you would like to move forward. Just let me know.
+
+Best,
+[Your Name]"
+Onboarding welcome email,New client,"Warm, welcoming, clear on next steps","New client just signed on. Goal: welcome them, set expectations, outline next steps clearly.","Subject: Welcome aboard, [Client Name]!
+
+Dear [Client Name],
+
+Welcome, and thank you for choosing us! We are excited to get started on [Project/Service].
+
+Here is what happens next: [step 1], [step 2], [step 3]. Your main point of contact going forward will be [Name], who will reach out shortly to schedule a kickoff call.
+
+If you have any questions in the meantime, feel free to reach out anytime.
+
+Best regards,
+[Your Name]"
+Negative feedback response,Dissatisfied client,"Empathetic, non-defensive, solution-focused","Client shared negative feedback about service quality. Goal: acknowledge without being defensive, show genuine concern, propose a concrete fix.","Subject: Thank you for your honest feedback
+
+Dear [Client Name],
+
+Thank you for taking the time to share this - honest feedback like this genuinely helps us improve, even when it is hard to hear.
+
+I hear your concern about [issue], and I want to make this right. Here is what we propose: [specific fix or next step]. Would you be open to a short call so I can understand your experience in more detail?
+
+We value your business and want to earn back your confidence.
+
+Best regards,
+[Your Name]"
+Contract renewal reminder,Existing client nearing contract end,"Professional, warm, forward-looking","Client's contract is expiring soon. Goal: remind about renewal, highlight value delivered, make renewal easy.","Subject: Your contract renewal - let's talk
+
+Dear [Client Name],
+
+Your current contract with us is set to end on [date], and I wanted to reach out ahead of time to discuss renewal.
+
+Over the past [period], we have delivered [key results/value]. We would love to continue this partnership - I have attached the renewal terms for your review, and I am happy to jump on a call to discuss any changes you would like.
+
+Looking forward to continuing to work together.
+
+Best regards,
+[Your Name]"
+Price increase announcement,Long-term recurring client,"Confident, transparent, appreciative","Company is increasing prices for existing clients. Goal: announce clearly, justify briefly, reassure without over-apologizing, give advance notice.","Subject: Upcoming pricing update for your account
+
+Dear [Client Name],
+
+Starting [date], our pricing for [service] will be updated to [new price]. This reflects [brief, honest reason - e.g. expanded service scope / cost of delivering higher quality].
+
+As a valued client, you will see this change reflected from your next billing cycle. If you have any questions or would like to discuss your plan, I am happy to set up a call.
+
+Thank you for being with us.
+
+Best regards,
+[Your Name]"
+Scope creep pushback,Client repeatedly adding small unpaid requests,"Polite, firm, boundary-setting","Client keeps adding small extra tasks outside the agreed scope, expecting them for free. Goal: politely draw the line without sounding petty, propose a clean path forward.","Subject: Keeping our project scope on track
+
+Hi [Client Name],
+
+I have noticed a few additional requests coming in over the past [timeframe] that fall outside our original scope of work. I want to make sure we deliver everything to a high standard, which means we need to formally account for this extra work.
+
+I have put together a short summary of the additional items with an updated estimate - let me know if you would like to proceed, or if we should prioritize within the existing scope instead.
+
+Best,
+[Your Name]"
+Service outage apology,Client affected by a technical outage,"Direct, accountable, reassuring","A service outage affected the client's operations. Goal: inform proactively, take ownership, explain the fix, rebuild trust.","Subject: Service disruption on [date] - what happened and next steps
+
+Dear [Client Name],
+
+On [date], you may have experienced an interruption to [service] between [time] and [time]. I want to explain what happened and what we are doing about it.
+
+The cause was [brief explanation]. We have since [fix/action taken] and put additional monitoring in place to catch this earlier next time.
+
+I understand this may have affected your operations, and I am sorry for the disruption. Please reach out if this caused any specific issues on your end so we can help address them directly.
+
+Best regards,
+[Your Name]"
+Referral request from happy client,Satisfied long-term client,"Warm, appreciative, low-pressure",Client has expressed satisfaction recently. Goal: ask for a referral or introduction without sounding pushy.,"Subject: A small favor, if you have a moment
+
+Hi [Client Name],
+
+It has genuinely been a pleasure working with you on [project], and I am glad we have been able to deliver the results you were looking for.
+
+If you know anyone else who might benefit from similar support, I would really appreciate an introduction - no pressure at all if not. Either way, thank you for being a great partner to work with.
+
+Best regards,
+[Your Name]"
+Low satisfaction survey score follow-up,Client who gave a low NPS/satisfaction score,"Empathetic, curious, non-defensive","Client submitted a low satisfaction score on a survey. Goal: follow up personally, understand the issue, avoid sounding scripted.","Subject: Following up on your recent feedback
+
+Dear [Client Name],
+
+I saw your recent feedback and wanted to reach out personally rather than let it go unanswered. It is clear something did not meet expectations, and I would like to understand more so we can fix it.
+
+Would you be open to a short call this week? Your experience matters to us, and I want to make sure we address this properly rather than just noting it down.
+
+Best regards,
+[Your Name]"
+Client data/security concern response,Client worried about data handling,"Calm, precise, reassuring","Client has raised a concern about how their data is stored or handled. Goal: respond with clarity and confidence, avoid vague reassurance, offer concrete detail.","Subject: Re: Your question about data security
+
+Dear [Client Name],
+
+Thank you for raising this - it is an important question and I want to give you a clear answer.
+
+[Specific detail on how data is stored/protected, e.g. encryption, access controls, compliance standard]. If you would like, I can share our security documentation or arrange a call with our technical lead to walk through this in more detail.
+
+Please do not hesitate to raise any further questions - we take this seriously.
+
+Best regards,
+[Your Name]"
+Partnership or collaboration proposal,Potential business partner,"Professional, confident, concise","Reaching out to propose a partnership or collaboration. Goal: introduce the idea clearly, state mutual benefit, propose a next step.","Subject: Potential collaboration between [Your Company] and [Their Company]
+
+Dear [Name],
+
+I have been following [Their Company]'s work in [area] and think there could be a strong opportunity for collaboration between our teams, particularly around [specific idea].
+
+I would love to explore this further - would you be open to a short call in the next couple of weeks to discuss?
+
+Looking forward to hearing your thoughts.
+
+Best regards,
+[Your Name]"
+Upsell or cross-sell pitch,Existing client using only part of the service,"Consultative, value-first, not pushy","Client is only using one part of the offering. Goal: introduce an additional service based on their actual needs, not a hard sell.","Subject: Something that might help with [their goal]
+
+Hi [Client Name],
+
+Based on what we have worked on together so far, I think [additional service/feature] could genuinely help with [specific goal they mentioned].
+
+No pressure at all - just wanted to flag it in case it is useful. Happy to walk you through how it works if you are interested.
+
+Best,
+[Your Name]"
+Cancellation or churn retention attempt,Client requesting to cancel/end contract,"Respectful, non-desperate, genuinely curious","Client has requested to cancel services. Goal: acknowledge the request respectfully, understand the reason, make one genuine retention attempt without being pushy.","Subject: Re: Your request to cancel
+
+Dear [Client Name],
+
+Thank you for letting us know, and of course we will process this as requested. Before we do, I wanted to ask - was there something specific that did not work for you? Your feedback would genuinely help us improve.
+
+If there is anything we could do differently that would change your decision, I am happy to discuss it. Otherwise, we will proceed with the cancellation by [date] as requested.
+
+Best regards,
+[Your Name]"
+Testimonial or case study request,Client with a strong recent result,"Warm, appreciative, easy to say yes to","Client had a great outcome. Goal: ask for a testimonial or case study participation, make it low-effort for them.","Subject: Would you be open to sharing your experience?
+
+Hi [Client Name],
+
+Seeing [specific result achieved] has been genuinely rewarding for our team, and we would love to share this success story - with your permission, of course.
+
+Would you be open to a short testimonial, or even a quick case study feature? I can put together a draft based on our work together so it takes minimal time on your end.
+
+Best regards,
+[Your Name]"
+Executive-level formal project update,Senior stakeholder / C-level contact,"Formal, high-level, results-focused","Sending a project status update to a senior executive. Goal: be concise, lead with outcomes, avoid unnecessary detail.","Subject: [Project Name] - Executive Summary Update
+
+Dear [Name],
+
+A brief update on [Project Name]: we are currently [on track / at X% completion], with [key milestone] delivered as of [date]. The main outcome so far has been [headline result].
+
+One item requiring your input: [decision needed, if any]. Full details are available on request, but wanted to keep this concise given your schedule.
+
+Best regards,
+[Your Name]"
+Urgent same-day request acknowledgment,Client with a time-sensitive urgent request,"Fast, reassuring, action-oriented","Client has an urgent same-day request. Goal: acknowledge immediately, confirm action is being taken, set a realistic expectation.","Subject: Re: Urgent - on it now
+
+Hi [Client Name],
+
+Got your message - we are on this right away. I expect to have [an update / resolution] by [specific time today].
+
+Will follow up as soon as there is progress, or sooner if anything changes.
+
+Best,
+[Your Name]"
+Vendor-side delay explained to client,Client waiting on a third-party dependency,"Transparent, ownership-focused, proactive","A third-party vendor caused a delay affecting the client. Goal: explain without blaming solely the vendor, take ownership of managing it, give a revised plan.","Subject: Update on [Project Name] - vendor delay
+
+Dear [Client Name],
+
+I want to flag a delay affecting [deliverable]. A third-party vendor we rely on for [component] has pushed their timeline back, which impacts our delivery date.
+
+We are actively managing this and have [action taken, e.g. escalated with the vendor / found a workaround]. Revised delivery date: [new date]. I will keep you updated if anything changes.
+
+Apologies for the impact this has on your plans.
+
+Best regards,
+[Your Name]"
+Contract negotiation - client wants better terms,Client negotiating contract terms before signing,"Collaborative, firm on key points, flexible where possible","Client is pushing back on certain contract terms. Goal: find middle ground, protect key terms, keep the deal moving forward.","Subject: Re: Contract terms discussion
+
+Dear [Client Name],
+
+Thank you for the detailed feedback on the contract. On [specific term], we are able to be flexible and can adjust to [proposed change]. On [other term], this is something we need to hold firm on, as [brief reason].
+
+I believe we are close to alignment - would a quick call help us finalize the remaining points?
+
+Best regards,
+[Your Name]"
+Kickoff call confirmation,"New client, project about to start","Organized, welcoming, clear","Confirming details for a project kickoff call. Goal: confirm logistics, set expectations for the call, build early confidence.","Subject: Confirming our kickoff call - [date/time]
+
+Hi [Client Name],
+
+Looking forward to our kickoff call on [date] at [time] ([timezone]). Meeting link: [link].
+
+On our end, we will cover: [agenda point 1], [agenda point 2], and next steps. If there is anything specific you would like us to address, feel free to send it ahead of time.
+
+See you then!
+
+Best,
+[Your Name]"
+Client unhappy with a specific team member,Client raising a complaint about staff conduct,"Serious, respectful, discreet","Client has complained about interactions with a specific staff member. Goal: take the concern seriously, avoid throwing the employee under the bus publicly, commit to addressing it internally.","Subject: Thank you for flagging this
+
+Dear [Client Name],
+
+Thank you for bringing this to my attention, and I am sorry to hear about your experience. This is not the standard we hold ourselves to, and I will be addressing it directly and internally.
+
+Going forward, [specific change, e.g. a new point of contact / additional oversight]. Please let me know if anything similar comes up again - I want to make sure this is fully resolved.
+
+Best regards,
+[Your Name]"
+Reduced availability / holiday notice,All active clients,"Brief, professional, informative","Notifying clients of reduced availability due to a holiday period. Goal: inform clearly, set expectations, provide an alternative contact if urgent.","Subject: Reduced availability [date] to [date]
+
+Dear [Client Name],
+
+Our team will have reduced availability from [start date] to [end date] due to [holiday/reason]. Response times may be slightly longer than usual during this period.
+
+For anything urgent, please reach out to [alternative contact/process]. Otherwise, we will respond to all messages as soon as we are back.
+
+Thank you for your understanding.
+
+Best regards,
+[Your Name]"
+Post-project feedback request,Client whose project just completed,"Warm, brief, easy to respond to","Project just wrapped up. Goal: ask for structured feedback, make it quick and low-effort.","Subject: How did we do?
+
+Hi [Client Name],
+
+Now that [Project Name] has wrapped up, I would love to hear your honest thoughts - what worked well, and what we could improve for next time.
+
+It only takes a couple of minutes: [survey link], or feel free to just reply directly if that is easier.
+
+Thank you again for working with us.
+
+Best regards,
+[Your Name]"
+Final notice after multiple ignored follow-ups,Unresponsive client blocking project progress,"Firm, professional, clear on consequence","Client has ignored several follow-ups needed to move the project forward. Goal: be clear about the impact of continued silence without being aggressive, state next step plainly.","Subject: Action needed to keep [Project Name] on track
+
+Dear [Client Name],
+
+I have sent a couple of follow-ups on [specific item] over the past [timeframe] without a response. Since this is required for us to move forward, I wanted to flag that continued delay will impact the project timeline.
+
+Could you confirm [specific action needed] by [date]? If we do not hear back, we may need to pause work until this is resolved.
+
+Best regards,
+[Your Name]"
+Sharing results that exceeded expectations,Client whose project outperformed targets,"Enthusiastic but professional, credit-sharing","Project results exceeded the agreed targets. Goal: share the good news, give credit where relevant, keep it professional rather than overly celebratory.","Subject: Great news on [Project Name] results
+
+Dear [Client Name],
+
+Wanted to share some great news - [specific metric] came in at [result], well above our original target of [target]. 
+
+This was very much a team effort, and your input on [specific contribution] made a real difference. Happy to walk through the full breakdown whenever suits you.
+
+Best regards,
+[Your Name]"
